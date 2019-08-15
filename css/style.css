@@ -1,0 +1,144 @@
+.top{
+  background-color: #4f81c7;
+  height: 220px;
+}
+.home{
+  text-decoration: none;
+
+}
+
+
+body{
+  margin:0;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+.menu{
+  text-align: left;
+  background-color: #ffffff;
+  width: 200px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+h1{
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 70px;
+  color: #ffffff;
+}
+.profile{
+  width: 70%;
+  text-align: center;
+  margin-left: 15%
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width:50%;
+
+
+
+
+}
+.pro{
+  color: #ffffff;
+}
+.p1{
+  text-align: left;
+}
+.skill-row{
+  width: 70%;
+  margin: 50px auto 50px;
+  text-align:left;
+  line-height: 2;
+
+}
+.aus{
+  width:25%;
+  border-radius: 50%;
+  float: left;
+  position: relative; top: 20px;
+
+}
+.m{
+  width:25%;
+  border-radius: 50%;
+  float: left;
+  position: relative; bottom: 20px;
+
+}
+.austext{
+  margin-left:30%;
+  text-align: left;
+
+  width: 70%;
+}
+p{
+  text-align: center;
+}
+.hi{
+  position:relative;right: 220px;
+bottom: 150px;
+
+
+
+}
+.first{
+  padding-top: 20px;
+  position:relative;left: 300px;
+
+}
+.second{
+  position: absolute;
+
+
+}
+.button {
+  background: #4f81c7;
+  -moz-border-radius: 27;
+  border-radius: 27px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+
+
+.button:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+
+div{
+  background-color: #eaeaea;
+}
+
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #4f81c7;
+}
+
+
+
+.btn{
+  background-color: lightblue;
+  text-decoration: none;
+  padding: 10px 20px 10px 20px;
+  border-radius: 30px;
+
+}
+.btn:hover{
+  background-color: blue;
+}
+.footer-link{
+  position: relative;top: 10px;
+}
